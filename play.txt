@@ -1,4 +1,4 @@
-gitの練習
+player強化
 今日はGitを勉強した。
 のかもね
 feature/playerで編集しました
