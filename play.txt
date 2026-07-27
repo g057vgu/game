@@ -1,3 +1,4 @@
 gitの練習
 今日はGitを勉強した。
 のかもね
+feature/playerで編集しました
