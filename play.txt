@@ -1,4 +1,5 @@
 player強化
+enemyを編集
 今日はGitを勉強した。
 のかもね
 feature/playerで編集しました
